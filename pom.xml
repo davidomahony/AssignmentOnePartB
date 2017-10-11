@@ -15,10 +15,6 @@
   
   <repositories>  
 		<repository>
-		    <id>jitpack.io</id>
-		    <url>https://jitpack.io</url>
-		</repository>
-		<repository>
         <id>dropbox-mvn-repo</id>
         <url>file:///C:\Users\daver\Dropbox\dropbox-mvn-repo</url>
     </repository>
